@@ -12,7 +12,14 @@ Please note that we are going to expound on this project later in the course whe
 * TDD / RSPEC
 
 ### Release 0
-Think through the classes you'll need to write this app. This is an open-ended challenge, but some possibilities may include: budget, transaction, budget category, etc.
+Think through the classes you'll need to write this app. This is an open-ended challenge, but some possibilities may include: budget, transaction, budget category, etc. 
+
+Start by implimenting the following features. Feel free to add more to push your learning. 
+* It should Keep track of expenses including but not limited to Living, Food, Travel, Savings, and Leisure. 
+* Users should be able to update their monthly income. 
+* It should know how much the user's monthly cost is. 
+* It should be able to create and calculate new expenses. 
+* If should be able to tell users what percent of their monthly income is being spent in each category. 
 
 ### Release 1
 Your favorite: **TDD**. Work with your pair to figure out what a user can do through the command line. How will they enter new transactions? How will someone's budget be saved? How will transactions be saved? How will transactions be categorized and saved so that they know how much is left in a particular category? How will a user exit the program?
