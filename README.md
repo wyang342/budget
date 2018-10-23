@@ -3,21 +3,21 @@
 ## Backstory
 Your instructor, Jon, has a tough time with managing his money. He's been told to create a budget in Excel, but the thought of using spreadsheets makes him very unhappy. He's tasked you with creating a terminal based budgeting application so that he can keep track of his expenses.
 
-Please note that we are going to expound on this project later in the course when we get to databases, Sinatra, and Rails.
+Please note that we are going to expound on this project later in the course when we get to databases and Django.
 
 ### What skills does this solidify?
 * Reading/writing to CSV
 * Single responsibility classes / small methods
-* Having Ruby objects talk to one another
-* TDD / RSPEC
+* Having Python objects talk to one another
+* TDD / Unittests
 
 ### Release 0
 Think through the classes you'll need to write this app. This is an open-ended challenge, but some possibilities may include: budget, transaction, budget category, etc. 
 
-Start by implimenting the following features. Feel free to add more to push your learning. 
+Start by implementing the following features. Feel free to add more to push your learning. 
 * It should Keep track of expenses including but not limited to Living, Food, Travel, Savings, and Leisure. 
 * Users should be able to update their monthly income. 
-* It should know how much the user's monthly cost is. 
+* It should know how much the user's monthly costs are. 
 * It should be able to create and calculate new expenses. 
 * If should be able to tell users what percent of their monthly income is being spent in each category. 
 
