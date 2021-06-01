@@ -1,1 +1,7 @@
-# After you write all your classes, use this file to call them all together and run your program
+from classes.budget import Budget
+from classes.budget_category import BudgetCategory
+from classes.interface import BudgetInterface
+
+if __name__ == "__main__":
+    budget_interface = BudgetInterface()
+    budget_interface.run()
